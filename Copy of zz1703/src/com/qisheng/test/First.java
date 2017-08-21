@@ -3,9 +3,10 @@ package com.qisheng.test;
 public class First {
 	
 	
+	int i = 20;
 	
 	
-	
+	int j = 30;
 	
 	
 	
